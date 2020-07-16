@@ -19,7 +19,7 @@
     "hexo-renderer-pandoc": "^0.2.6",
     "hexo-renderer-stylus": "^0.3.1",
     "hexo-server": "^0.3.3",
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.19"
   },
   "devDependencies": {}
 }
