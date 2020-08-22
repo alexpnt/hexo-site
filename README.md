@@ -9,8 +9,10 @@ Source content used to generate my personal site - https://alexpnt.github.io/
 ```bash
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh | bash
 
-# in a new shell
-nvm install node
+# in a new shell, install the lts version of node
+nvm install 12.18.3 
+nvm alias default 12.18.3
+
 ```
 
 #### Install pandoc
