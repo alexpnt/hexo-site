@@ -64,7 +64,74 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 # theme: landscape
-theme: cactus-dark
+theme: cactus
+theme_config:
+  colorscheme: dark #dark, light, white and classic
+  page_width: 64
+  direction: ltr
+
+  nav:
+    Home: /
+    CV: /cv/
+    Blog: /blog/
+    Papers: /papers/
+
+
+  projects_url: http://github.com/alexpnt
+  social_links:
+    github: https://github.com/alexpnt
+    linkedin: https://linkedin.com/in/alexandre-pinto
+    university: https://student.dei.uc.pt/~arpinto/
+    slideshare: https://www.slideshare.net/alexpnt/presentations
+    keybase: https://keybase.io/alexpnt
+    twitter: https://twitter.com/alxpnto
+    facebook: https://facebook.com/alexandpinto
+    instagram: https://instagram.com/alxpnt
+    mail: alexandpinto@gmail.com
+
+  tags_overview: false
+  posts_overview:
+    show_all_posts: false
+    post_count: 10
+    sort_updated: false
+  post:
+    show_updated: false
+  highlight: atelier-lakeside-dark
+
+  archive:
+    sort_updated: false
+
+  copyright:
+    start_year: 2017
+    end_year: 2020
+
+  logo:
+    enabled: false
+    width: 100
+    height: 136
+    url: /images/_alexpnt.png
+    gravatar: false
+
+  favicon:
+    desktop:
+      url: /images/favicon.ico
+      gravatar: false
+    android:
+      url: /images/favicon-192x192.png
+      gravator: false
+    apple:
+      url: /images/apple-touch-icon.png
+      gravator: false
+
+  #plugins
+  disqus:
+    enabled: true
+    shortname: alexpnt
+  google_analytics:
+    enabled: true
+    id: UA-43571022-2
+  gravatar:
+    email: alexandpinto@gmail.com
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
