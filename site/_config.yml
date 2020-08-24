@@ -89,7 +89,7 @@ theme_config:
     instagram: https://instagram.com/alxpnt
     mail: alexandpinto@gmail.com
 
-  tags_overview: false
+  tags_overview: true
   posts_overview:
     show_all_posts: false
     post_count: 10

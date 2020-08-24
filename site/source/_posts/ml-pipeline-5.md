@@ -1,6 +1,7 @@
 ---
 title: Building a machine-learning pipeline with scikit-learn and Qt - Part V
 date: 2017-09-09 18:15:41
+mathjax: true
 tags: 
 - python
 - machine-learning
