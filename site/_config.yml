@@ -75,6 +75,7 @@ theme_config:
     CV: /cv/
     Blog: /blog/
     Papers: /papers/
+    Search: /search/
 
 
   projects_url: http://github.com/alexpnt
