@@ -81,6 +81,7 @@ theme_config:
   projects_url: http://github.com/alexpnt
   social_links:
     github: https://github.com/alexpnt
+    stack-overflow: https://stackoverflow.com/users/3242636/alexpnt
     linkedin: https://linkedin.com/in/alexandre-pinto
     university: https://student.dei.uc.pt/~arpinto/
     slideshare: https://www.slideshare.net/alexpnt/presentations
