@@ -2,10 +2,9 @@
 title: papers
 date: 2017-08-25 21:17:11
 ---
-<br>
-_“Words can be like X-rays if you use them properly -- they’ll go through anything. You read and you’re pierced.”_
 
-Aldous Huxley, Brave New World
+<cite>Words can be like X-rays if you use them properly -- they’ll go through anything. You read and you’re pierced.</cite><br>
+- Aldous Huxley, Brave New World
 
 ## Journal Articles:
 
@@ -22,10 +21,10 @@ Pinto A., Oliveira H., and Alves A. (2016).
 
 ## MSc Theses
 
-[Classification of Social Media Posts according to their Relevance, 2016](https://docs.google.com/viewer?url=https://github.com/AlexPnt/Master-Thesis/raw/master/reminds-thesis.pdf)
+Classification of Social Media Posts according to their Relevance. (2016).[[[pdf]](https://github.com/AlexPnt/Master-Thesis/raw/master/reminds-thesis.pdf)
 
 ## Drafts
 
-[Notes on Automated University Timetabling](https://docs.google.com/viewer?url=https://github.com/AlexPnt/university-timetabling/raw/master/timetabling-notes.pdf)
+Notes on Automated University Timetabling. (2015). [[pdf]](https://github.com/AlexPnt/university-timetabling/raw/master/timetabling-notes.pdf)
 
 <!-- ## Papers I like -->
