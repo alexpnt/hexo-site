@@ -127,9 +127,8 @@ theme_config:
       gravator: false
 
   #plugins
-  disqus:
+  utterances:
     enabled: true
-    shortname: alexpnt
   google_analytics:
     enabled: true
     id: UA-43571022-2
