@@ -90,7 +90,7 @@ theme_config:
     twitter: https://twitter.com/alxpnto
     facebook: https://facebook.com/alexandpinto
     instagram: https://instagram.com/alxpnt
-    mail: alexandpinto@gmail.com
+    mail: mailto:alexandpinto@gmail.com
 
   tags_overview: true
   posts_overview:
@@ -129,8 +129,11 @@ theme_config:
   #plugins
   utterances:
     enabled: true
+  disqus:
+    enabled: false
+    shortname: alexpnt
   google_analytics:
-    enabled: true
+    enabled: false
     id: UA-43571022-2
   gravatar:
     email: alexandpinto@gmail.com
