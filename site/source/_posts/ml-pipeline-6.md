@@ -1,6 +1,7 @@
 ---
 title: Building a machine-learning pipeline with scikit-learn and Qt - Part VI
 date: 2017-09-10 10:30:41
+mathjax: true
 tags: 
 - python
 - machine-learning
@@ -58,10 +59,15 @@ In classification tasks, predictions made by a classifier are either considered 
 
 
 In this series of posts, a machine learning application was presented, showing a typical pipeline with the following steps:
+
 * Dataset Loading
+
 * Feature Assessment where the distribution of features are inspected and visualized
+
 * Preprocessing where data transformations are applied and issues such as dataset balancing are addressed. 
+
 * Feature Selection methods where features with he most discriminative power are selected
+
 * Classifications performed by predictive models where their performance is evaluated using ROC curves, Precision-Recall Curves and generic metrics such as Accuracy, Precision, Recall and F1 measures. 
 
 The machine learning method is an iterative process, where one needs to go back and forth, setting different parameters, and different methods in order to see which combination works best and provides the best results. You can checkout this application and try it for yourself. The source code is available in [this repository](https://github.com/AlexPnt/Default-Credit-Card-Prediction).
