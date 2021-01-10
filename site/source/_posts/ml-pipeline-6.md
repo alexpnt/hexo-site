@@ -49,14 +49,11 @@ In classification tasks, predictions made by a classifier are either considered 
 
 * **Receiver Operating Characteristics (ROC)** - ROC curves are useful graphs to visualize the performance of binary classifiers. They are useful to compare the rates at which the classifier is making correct predictions (True Positive Rate plotted on the Y axis) against the rate of false alarms (False Positive Rate plotted on the X axis). Important points in this graph are the lower left point (0,0), representing a classifier that never classify positive instances, neither having False Positives or True Positives. On the other hand, the upper right point (1,1) represents a classifier that classifies every instance as positive, disregarding if it is a false positive or not. Finally, the point (0,1) represents the perfect classifier, where every instance was correctly classified. The area bellow the ROC curve is called Area Under the Curve (AUC) and is also a good evaluation measure. A perfect classifier would have an AUC of 1.0 while a random classifier would only have 0.5.
 
-
 ![](/images/ml-pipeline/roc.png)
 
 * **Precision-Recall Curves (PR)** - The Precision-Recall Curve plots the trade-off between the precision and recall achieved by a classifier, by showing the recall on the X axis and precision on the Y axis. An important point in this graph is the upper right point (1,1) which represents the ideal classifier having maximum precision and recall. Figure 2.4 shows three hypothetical classifiers and the areas of good and bad performance, which are above or below the line defined by a random classifier. The area bellow the PR curve is called Average Precision (AP) and is also a good measure. A perfect classifier would have an Average Precision of 1.0 while a random classifier would only have 0.5.
 
 ![](/images/ml-pipeline/precision-recall.png)
-
-
 
 In this series of posts, a machine learning application was presented, showing a typical pipeline with the following steps:
 
