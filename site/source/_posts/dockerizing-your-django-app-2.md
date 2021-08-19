@@ -9,8 +9,6 @@ tags:
 - docker
 ---
 
-![](/images/dev.png)
-
 A typical web application has a set of components that work together such as the application backend, the frontend, the database or other components such as cache services, proxy servers, etc. Docker is a great tool to decouple our different services and isolate them. In this post we will decouple our web application  into  two services, the application and the database.
 
 We start by getting a copy of our code base:

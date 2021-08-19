@@ -6,8 +6,6 @@ tags:
 - problems
 ---
 
-[![](https://instagram.fopo1-1.fna.fbcdn.net/t51.2885-15/e35/18646051_1682780288417811_6149155933822910464_n.jpg)](https://www.instagram.com/p/BUmPQkejl8s/?taken-by=alxpnt)
-
 In our daily life, we are constantly faced with problems that we need to solve. Therefore, we should take this into account and be prepared. 
 
 Fortunatelly, there are many frameworks and systematic guidelines out there that we can follow. One of my favourites is based on the four principles outlined by [George Polya](https://en.wikipedia.org/wiki/George_P%C3%B3lya) in 1945.  

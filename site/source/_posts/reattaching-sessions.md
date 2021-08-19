@@ -124,6 +124,6 @@ $ screen -r fibo
 12586269025
 ```
 
-PS: You might need to run __echo 0 > /proc/sys/kernel/yama/ptrace_scope__
+PS: You might need to run ```bash echo 0 > /proc/sys/kernel/yama/ptrace_scope```
 
 This is a very simple example with a trivial job running just to illustrate the idea of moving random jobs to new screen sessions. We can avoid this by always starting long running process in new screen sessions. In case we forget, we can use this process to rescue us.

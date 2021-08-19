@@ -17,12 +17,12 @@ $ sudo mount -t cifs //remoteserver/shared /mnt/shared/ -o username=myusername,p
 
 where:
 
-*-t cifs* is the filesystem type (cifs in our case)
+* _-t cifs_ is the filesystem type (cifs in our case)
 
-*//remoteserver/shared* is our remote host ('shared' is the shared folder)
+* _//remoteserver/shared_ is our remote host ('shared' is the shared folder)
 
-*/mnt/shared/* is the local folder that will be mounted
+* _/mnt/shared/_ is the local folder that will be mounted
 
-*-o username=myusername,password=mypassword * are the authentication credentials
+* _-o username=myusername,password=mypassword_  are the authentication credentials
 
 __Disclaimer:__ You might need to install CIFS utilities before attempting to run the above command.

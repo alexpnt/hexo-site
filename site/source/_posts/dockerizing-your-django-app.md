@@ -9,8 +9,6 @@ tags:
 - docker
 ---
 
-![](/images/dev.png)
-
 ## Monolithic vs Microservices 
 
 Over the past years, there has been a paradigm shift in the architecture of software, i.e., the microservices approach to software development is taking over the traditional monolithic architecture. 

@@ -7,8 +7,6 @@ tags:
 - python
 ---
 
-![](/images/dev.png)
-
 ## What is Django ? 
 
 Django is a well-known web framework, written in Python, which comes packaged with lots of out of the box features, such as:

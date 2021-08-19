@@ -28,10 +28,10 @@ i18n_dir: :lang
 skip_render:
 
 # Writing
-new_post_name: :title.md # File name of new posts
+new_post_name: :title.md
 default_layout: post
-titlecase: false # Transform title into titlecase
-external_link.enable: true # Open external links in new tab
+titlecase: false
+external_link.enable: true
 filename_case: 0
 render_drafts: false
 post_asset_folder: false
@@ -127,6 +127,8 @@ theme_config:
       gravator: false
 
   #plugins
+  mathjax:
+    enabled: true
   utterances:
     enabled: true
   disqus:
@@ -155,7 +157,12 @@ asset_pipeline:
     exclude:
       - '*.min.js'
   imagemin:
-    enable: false
+    enable: true
+    interlaced: false
+    multipass: true
+    optimizationLevel: 3
+    pngquant: true
+    progressive: true
   html_minifier:
     enable: false
 
