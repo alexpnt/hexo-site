@@ -77,7 +77,6 @@ theme_config:
     Publications: /publications/
     Search: /search/
 
-
   projects_url: http://github.com/alexpnt
   social_links:
     github: https://github.com/alexpnt
@@ -131,6 +130,10 @@ theme_config:
     enabled: true
   utterances:
     enabled: true
+    repo: alexpnt/alexpnt.github.io
+    issue_term: pathname
+    label: comments
+    theme: photon-dark
   disqus:
     enabled: false
     shortname: alexpnt
