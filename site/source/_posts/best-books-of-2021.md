@@ -107,6 +107,8 @@ and leaves a positive tone for the future of humanity, while not ignoring issues
 
 ## Inteligência Artificial (Artificial Intelligence)
 
+![](/images/best-books-of-2021/ia.jpg)
+
 Inteligência Artificial ("Artificial Intelligence" in English) written by Arlindo Oliveira is a brief history of the evolution of humanity over time. 
 The book follows the timeline from the first moments after the Big Bang until the appearance of the first signs of life, 
 including a brief reference to the underlying biological and chemical processes. It also explores the evolution from the first intelligent beings to the human form we know today.
@@ -138,8 +140,6 @@ In addition to these questions it also offers some reflections on the transforma
 such as the disappearance of jobs that have become obsolete, the creation of new jobs or the challenges of redistribution of wealth associated with the increasing automation.
 
 It is an easy and quick read, and exposes a number of intriguing social and ethical questions about the future of intelligent systems.
-
-![](/images/best-books-of-2021/ia.jpg)
 
 ## Robotic Process Automation and Risk Mitigation
 
