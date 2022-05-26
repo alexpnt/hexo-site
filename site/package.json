@@ -6,7 +6,7 @@
     "version": "5.4.0"
   },
   "dependencies": {
-    "grunt": "^1.4.1",
+    "grunt": "^1.5.3",
     "hexo": "^5.4.0",
     "hexo-asset-pipeline": "^1.8.0",
     "hexo-generator-alias": "^1.0.0",
